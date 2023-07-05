@@ -3,13 +3,18 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "cubicbird-land-core": "github:felixtsu/cubicbird-land-core#v0.0.14"
+        "cubicbird-land-core": "github:felixtsu/cubicbird-land-core#v0.0.14",
+        "cubicbird-land-test2": "pub:00753-56821-82768-29821"
     },
     "files": [
         "main.blocks",
         "main.ts",
         "README.md",
-        "assets.json"
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
     ],
     "testFiles": [
         "test.ts"
