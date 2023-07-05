@@ -1,1 +1,2 @@
 
+cbland.startVillage()
