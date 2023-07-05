@@ -10,6 +10,23 @@
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true
     },
+    "级别1": {
+        "id": "级别1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAwYTAwMDgwMDAxMDQwNDA0MDQwNDA0MDQwNDA1MDMwODA4MDgwODA4MDgwODA4MDYwMzA4MDgwODA4MDgwODA4MDgwNjAzMDgwODA4MDgwODA4MDgwODA2MDMwODA4MDgwODA4MDgwODA4MDYwMzA4MDgwODA4MDgwODA4MDgwNjAyMDAwMDAwMDAwMDAwMDAwMDA3MDAwMDAwMDAwMDAwMDAwMDAwMDAyMjIyMjIyMjIyMDIwMDAwMDAyMDAyMDAwMDAwMjAwMjAwMDAwMDIwMDIwMDAwMDAyMDAyMDAwMDAwMjAwMjAwMDAwMDIwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.builtin.forestTiles5",
+            "sprites.builtin.forestTiles13",
+            "sprites.builtin.forestTiles9",
+            "sprites.builtin.forestTiles6",
+            "sprites.builtin.forestTiles7",
+            "sprites.builtin.forestTiles11",
+            "sprites.builtin.forestTiles15",
+            "sprites.builtin.forestTiles10"
+        ],
+        "displayName": "mushroomFarmInside"
+    },
     "级别2": {
         "id": "级别2",
         "mimeType": "application/mkcd-tilemap",

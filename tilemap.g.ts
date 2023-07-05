@@ -18,6 +18,17 @@ namespace myTiles {
 . . . . . . . . . . 
 . . . . . . . . . . 
 `, [myTiles.transparency16,sprites.castle.tilePath1,sprites.castle.tilePath3,sprites.castle.tilePath2,sprites.castle.tilePath4,sprites.castle.tilePath6,sprites.dungeon.chestOpen,sprites.dungeon.darkGroundCenter,sprites.castle.tilePath5], TileScale.Sixteen);
+            case "mushroomFarmInside":
+            case "级别1":return tiles.createTilemap(hex`0a0008000104040404040404040503080808080808080806030808080808080808060308080808080808080603080808080808080806030808080808080808060200000000000000000700000000000000000000`, img`
+2 2 2 2 2 2 2 2 2 2 
+2 . . . . . . . . 2 
+2 . . . . . . . . 2 
+2 . . . . . . . . 2 
+2 . . . . . . . . 2 
+2 . . . . . . . . 2 
+2 . . . . . . . . 2 
+. . . . . . . . . . 
+`, [myTiles.transparency16,sprites.builtin.forestTiles5,sprites.builtin.forestTiles13,sprites.builtin.forestTiles9,sprites.builtin.forestTiles6,sprites.builtin.forestTiles7,sprites.builtin.forestTiles11,sprites.builtin.forestTiles15,sprites.builtin.forestTiles10], TileScale.Sixteen);
         }
         return null;
     })
