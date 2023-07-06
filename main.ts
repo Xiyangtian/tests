@@ -8,4 +8,15 @@ scene_util.captureRegisteringRoomScenes(() => {
     game.popScene()
 })
 
+cbland_equipment.registerEquipment("空手", img`
+1 1 1 1 1 1 1 1
+1 . 5 . 5 . . 1
+1 5 5 5 5 . 5 1
+1 5 5 5 . 5 . 1
+1 5 5 5 5 . . 1
+1 . 5 5 5 5 . 1
+1 . . 5 5 . 5 1
+1 1 1 1 1 1 1 1
+`, 0)
+
 cbland.startVillage()
