@@ -7,17 +7,6 @@ namespace myTiles {
 
     helpers._registerFactory("tilemap", function(name: string) {
         switch(helpers.stringTrim(name)) {
-            case "级别2":
-            case "级别2":return tiles.createTilemap(hex`0a0008000103030303030303030204080808080808080805040807080808080608050408080808080808080504080808080808080805040808080808080808050408080808080808080500000000000000000000`, img`
-. . . . . . . . . . 
-. . . . . . . . . . 
-. . . . . . . . . . 
-. . . . . . . . . . 
-. . . . . . . . . . 
-. . . . . . . . . . 
-. . . . . . . . . . 
-. . . . . . . . . . 
-`, [myTiles.transparency16,sprites.castle.tilePath1,sprites.castle.tilePath3,sprites.castle.tilePath2,sprites.castle.tilePath4,sprites.castle.tilePath6,sprites.dungeon.chestOpen,sprites.dungeon.darkGroundCenter,sprites.castle.tilePath5], TileScale.Sixteen);
             case "mushroomFarmInside":
             case "级别1":return tiles.createTilemap(hex`0a0008000104040404040404040503080808080808080806030808080808080808060308080808080808080603080808080808080806030808080808080808060200000000000000000700000000000000000000`, img`
 2 2 2 2 2 2 2 2 2 2 
@@ -29,6 +18,17 @@ namespace myTiles {
 2 . . . . . . . . 2 
 . . . . . . . . . . 
 `, [myTiles.transparency16,sprites.builtin.forestTiles5,sprites.builtin.forestTiles13,sprites.builtin.forestTiles9,sprites.builtin.forestTiles6,sprites.builtin.forestTiles7,sprites.builtin.forestTiles11,sprites.builtin.forestTiles15,sprites.builtin.forestTiles10], TileScale.Sixteen);
+            case "级别2":
+            case "级别2":return tiles.createTilemap(hex`0a0008000103030303030303030204080808080808080805040807080808080608050408080808080808080504080808080808080805040808080808080808050408080808080808080500000000000000000000`, img`
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+`, [myTiles.transparency16,sprites.castle.tilePath1,sprites.castle.tilePath3,sprites.castle.tilePath2,sprites.castle.tilePath4,sprites.castle.tilePath6,sprites.dungeon.chestOpen,sprites.dungeon.darkGroundCenter,sprites.castle.tilePath5], TileScale.Sixteen);
         }
         return null;
     })
