@@ -1,24 +1,21 @@
 {
     "name": "tests",
-    "description": "",
     "dependencies": {
-        "device": "*",
-        "cubicbird-land-core": "github:felixtsu/cubicbird-land-core#v0.0.14",
-        "cubicbird-land-test2": "pub:00753-56821-82768-29821",
-        "cubicbird-land-mushroomfarm": "pub:26491-19295-15196-42475"
+        "device": "*"
     },
     "files": [
-        "main.blocks",
-        "main.ts",
+        ".vscode/extensions.json",
+        ".vscode/settings.json",
+        "README.md",
         "assets.json",
         "images.g.jres",
         "images.g.ts",
+        "main.blocks",
+        "main.ts",
+        "test.ts",
         "tilemap.g.jres",
-        "tilemap.g.ts"
-    ],
-    "testFiles": [
-        "test.ts"
-        "README.md",
+        "tilemap.g.ts",
+        "tsconfig.json"
     ],
     "targetVersions": {
         "target": "1.12.32",
