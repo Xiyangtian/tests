@@ -13,11 +13,11 @@
         "images.g.ts",
         "main.blocks",
         "main.ts",
-        "test.ts",
         "tilemap.g.jres",
         "tilemap.g.ts",
         "tsconfig.json"
     ],
+    "testFiles": [],
     "targetVersions": {
         "target": "1.12.32",
         "targetId": "arcade"
