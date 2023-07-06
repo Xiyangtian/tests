@@ -3,4 +3,4 @@ scene_util.captureRegisteringRoomScenes(() => {
     game.popScene()
 })
 
-cbland.startVillage()
+//cbland.startVillage()
