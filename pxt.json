@@ -1,7 +1,8 @@
 {
     "name": "tests",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "cubicbird-land-test2": "pub:00753-56821-82768-29821"
     },
     "files": [
         ".vscode/extensions.json",
