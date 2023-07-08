@@ -3,7 +3,8 @@
     "dependencies": {
         "device": "*",
         "cubicbird-land-test2": "pub:00753-56821-82768-29821",
-        "cubicbird-land-mushroomfarm": "pub:26491-19295-15196-42475"
+        "cubicbird-land-mushroomfarm": "pub:26491-19295-15196-42475",
+        "cubicbird-land-fishingpond": "pub:63169-16325-94835-24373"
     },
     "files": [
         ".vscode/extensions.json",
