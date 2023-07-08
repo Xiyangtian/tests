@@ -1,5 +1,5 @@
 {
-    "name": "tests",
+    "name": "方块鸟大陆-试玩版",
     "dependencies": {
         "device": "*",
         "cubicbird-land-mushroomfarm": "pub:26491-19295-15196-42475",
