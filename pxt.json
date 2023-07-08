@@ -2,9 +2,8 @@
     "name": "tests",
     "dependencies": {
         "device": "*",
-        "cubicbird-land-test2": "pub:00753-56821-82768-29821",
         "cubicbird-land-mushroomfarm": "pub:26491-19295-15196-42475",
-        "cubicbird-land-fishingpond": "pub:50700-95661-04076-94239"
+        "cubicbird-land-fishingpond": "pub:39693-02337-61448-56352"
     },
     "files": [
         ".vscode/extensions.json",
@@ -15,7 +14,6 @@
         "images.g.ts",
         "main.blocks",
         "main.ts",
-        "bar.ts",
         "tilemap.g.jres",
         "tilemap.g.ts",
         "tsconfig.json"
