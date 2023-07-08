@@ -29,6 +29,17 @@ namespace myTiles {
 . . . . . . . . . . 
 . . . . . . . . . . 
 `, [myTiles.transparency16,sprites.castle.tilePath1,sprites.castle.tilePath3,sprites.castle.tilePath2,sprites.castle.tilePath4,sprites.castle.tilePath6,sprites.dungeon.chestOpen,sprites.dungeon.darkGroundCenter,sprites.castle.tilePath5], TileScale.Sixteen);
+            case "fishingpond_级别1":
+            case "级别1":return tiles.createTilemap(hex`0a0008000201010101010101010304040404040404040404040404040404040404040404040404040404040404040404040404040404050404040404040404060707070707070707070700000000000000000000`, img`
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+`, [myTiles.transparency16,sprites.swamp.swampTile7,sprites.swamp.swampTile6,sprites.swamp.swampTile8,sprites.swamp.swampTile9,sprites.swamp.swampTile12,sprites.swamp.swampTile14,sprites.castle.tilePath2], TileScale.Sixteen);
         }
         return null;
     })
