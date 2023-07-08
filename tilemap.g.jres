@@ -10,6 +10,22 @@
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true
     },
+    "fishingpond_级别1": {
+        "id": "级别1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAwYTAwMDgwMDAyMDEwMTAxMDEwMTAxMDEwMTAzMDQwNDA0MDQwNDA0MDQwNDA0MDQwNDA0MDQwNDA0MDQwNDA0MDQwNDA0MDQwNDA0MDQwNDA0MDQwNDA0MDQwNDA0MDQwNDA0MDQwNDA0MDQwNTA0MDQwNDA0MDQwNDA0MDQwNjA3MDcwNzA3MDcwNzA3MDcwNzA3MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.swamp.swampTile7",
+            "sprites.swamp.swampTile6",
+            "sprites.swamp.swampTile8",
+            "sprites.swamp.swampTile9",
+            "sprites.swamp.swampTile12",
+            "sprites.swamp.swampTile14",
+            "sprites.castle.tilePath2"
+        ],
+        "displayName": "fishingpond_级别1"
+    },
     "级别1": {
         "id": "级别1",
         "mimeType": "application/mkcd-tilemap",
