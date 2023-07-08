@@ -11,7 +11,7 @@
         "tilemapTile": true
     },
     "fishingpond_级别1": {
-        "id": "级别1",
+        "id": "fishingpond_级别1",
         "mimeType": "application/mkcd-tilemap",
         "data": "MTAwYTAwMDgwMDAyMDEwMTAxMDEwMTAxMDEwMTAzMDQwNDA0MDQwNDA0MDQwNDA0MDQwNDA0MDQwNDA0MDQwNDA0MDQwNDA0MDQwNDA0MDQwNDA0MDQwNDA0MDQwNDA0MDQwNDA0MDQwNDA0MDQwNTA0MDQwNDA0MDQwNDA0MDQwNjA3MDcwNzA3MDcwNzA3MDcwNzA3MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
         "tileset": [
