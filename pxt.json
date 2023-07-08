@@ -15,6 +15,7 @@
         "images.g.ts",
         "main.blocks",
         "main.ts",
+        "bar.ts",
         "tilemap.g.jres",
         "tilemap.g.ts",
         "tsconfig.json"
